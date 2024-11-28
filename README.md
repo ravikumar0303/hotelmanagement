@@ -4,5 +4,6 @@ this is the Java Microservices project
   # > Java Spring Boot
   # > Netflix Eureka
   # > postgreSQL
+  # > mySQL
   
     
